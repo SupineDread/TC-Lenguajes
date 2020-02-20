@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c2882e4-659d-4fa4-bb8e-2f895ea4a191" name="Default Changelist" comment="" />
+    <list default="true" id="3c2882e4-659d-4fa4-bb8e-2f895ea4a191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OperacionesLenguajes/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OperacionesLenguajes/Exercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XoJ2eNBtRlH5eXYG7hcxUxyamo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -78,7 +89,8 @@
       <workItem from="1581963045155" duration="8175000" />
       <workItem from="1582046452057" duration="6566000" />
       <workItem from="1582053063288" duration="1676000" />
-      <workItem from="1582133615600" duration="5688000" />
+      <workItem from="1582133615600" duration="8116000" />
+      <workItem from="1582218651488" duration="10177000" />
     </task>
     <servers />
   </component>
@@ -90,26 +102,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582139052215" />
-    <state width="1877" height="444" key="GridCell.Tab.0.bottom" timestamp="1582138286680">
+    <state width="1877" height="444" key="GridCell.Tab.0.bottom" timestamp="1582228864267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582138286680" />
-    <state width="1877" height="444" key="GridCell.Tab.0.center" timestamp="1582138286680">
+    <state width="1877" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582228864267" />
+    <state width="1877" height="444" key="GridCell.Tab.0.center" timestamp="1582228864267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="444" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582138286680" />
-    <state width="1877" height="444" key="GridCell.Tab.0.left" timestamp="1582138286680">
+    <state width="1877" height="444" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582228864267" />
+    <state width="1877" height="444" key="GridCell.Tab.0.left" timestamp="1582228864267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="444" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582138286680" />
-    <state width="1877" height="444" key="GridCell.Tab.0.right" timestamp="1582138286680">
+    <state width="1877" height="444" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582228864267" />
+    <state width="1877" height="444" key="GridCell.Tab.0.right" timestamp="1582228864267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="444" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582138286680" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582133718965">
+    <state width="1877" height="444" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582228864267" />
+    <state x="715" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1582141436627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582133718965" />
+    <state x="715" y="364" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582141436627" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582218659588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582218659588" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581790145701" />
     <state x="690" y="286" key="extract.method.dialog" timestamp="1582048751406">
       <screen x="0" y="0" width="1920" height="1040" />

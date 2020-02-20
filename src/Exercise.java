@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class Exercise {
@@ -98,16 +97,27 @@ public class Exercise {
     public void incisoG() {
         System.out.println("Ingrese el valor de N:");
         int n = l.nextInt();
-        if (n == 0) for (Character number : alphabetA) System.out.println(number);
-        for (int i = 0; i < n; i++) {
-            pow();
+        if (n == 0 || n == 1) for (Character number : alphabetA) {
+            System.out.println(number);
+            return;
         }
+        pow(n);
         for (String number : alphabetPow) System.out.println(number);
     }
 
-    public void pow() {
-        for (Character valor : alphabetA) {
+    public void pow(int n) {
 
+        // Se deben usar stacks no arrays
+
+        ArrayList<String> alphabetHelper = new ArrayList<>();
+        for (Character ch : alphabetA) alphabetHelper.add(String.valueOf(ch));
+        for (char value : alphabetA) {
+            for (int counter = 0; counter < alphabetA.size(); counter++) {
+                // Esto ya debería ser un stack
+                alphabetHelper.set(counter, value + "" + alphabetA.get(counter));
+                System.out.println("seteado: " + counter + alphabetHelper.get(counter));
+            }
+            // for (int i = 0; i < n; i++) {}
         }
     }
 

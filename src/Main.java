@@ -8,13 +8,10 @@ public class Main {
 
     public static void menu() {
 
-        // Variables for development
         Scanner l = new Scanner(System.in);
         Exercise exercise = new Exercise();
         boolean exit = false;
         int option;
-
-        // Variables for exercises
 
         while (!exit) {
 
